@@ -1,3 +1,59 @@
 conference_homepage:
     pattern:  /hello/{name}
     defaults: { _controller: conferenceBundle:Default:index }
+
+conferenceBundle_categorie:
+    resource: "@conferenceBundle/Resources/config/routing/categorie.yml"
+    prefix:   /categorie
+
+conferenceBundle_conference:
+    resource: "@conferenceBundle/Resources/config/routing/conference.yml"
+    prefix:   /conference
+
+conferenceBundle_evaluationaccept:
+    resource: "@conferenceBundle/Resources/config/routing/evaluationaccept.yml"
+    prefix:   /evaluationaccept
+
+conferenceBundle_motcle:
+    resource: "@conferenceBundle/Resources/config/routing/motcle.yml"
+    prefix:   /motcle
+
+conferenceBundle_noteevaluation:
+    resource: "@conferenceBundle/Resources/config/routing/noteevaluation.yml"
+    prefix:   /noteevaluation
+
+conferenceBundle_papier:
+    resource: "@conferenceBundle/Resources/config/routing/papier.yml"
+    prefix:   /papier
+
+conferenceBundle_revision:
+    resource: "@conferenceBundle/Resources/config/routing/revision.yml"
+    prefix:   /revision
+
+conferenceBundle_soumission:
+    resource: "@conferenceBundle/Resources/config/routing/soumission.yml"
+    prefix:   /soumission
+
+conferenceBundle_theme:
+    resource: "@conferenceBundle/Resources/config/routing/theme.yml"
+    prefix:   /theme
+
+conferenceBundle_themehassoumission:
+    resource: "@conferenceBundle/Resources/config/routing/themehassoumission.yml"
+    prefix:   /themehassoumission
+
+conferenceBundle_unrole:
+    resource: "@conferenceBundle/Resources/config/routing/unrole.yml"
+    prefix:   /unrole
+
+conferenceBundle_utilisateur:
+    resource: "@conferenceBundle/Resources/config/routing/utilisateur.yml"
+    prefix:   /utilisateur
+
+conferenceBundle_utilisateurhasarticle:
+    resource: "@conferenceBundle/Resources/config/routing/utilisateurhasarticle.yml"
+    prefix:   /utilisateurhasarticle
+
+conferenceBundle_utilisateurhasrole:
+    resource: "@conferenceBundle/Resources/config/routing/utilisateurhasrole.yml"
+    prefix:   /utilisateurhasrole

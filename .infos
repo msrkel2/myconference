@@ -1,0 +1,13 @@
+prjt : myconference
+space name : my
+bundle : conferenceBundle
+Bd : myconference
+
+
+-----------------------
+pour ton git
+----------------------
+git init
+git add .
+git commit -m "Initial commit t"
+------------------------------
