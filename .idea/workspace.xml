@@ -7,7 +7,7 @@
     <ignored path="myconference.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/.gitignore" changelist="ec3c7203-81fb-471f-a405-b1feb832ea17" time="1372613289652" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec3c7203-81fb-471f-a405-b1feb832ea17" time="1372625927889" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec3c7203-81fb-471f-a405-b1feb832ea17" time="1372626018130" ignored="false" />
     <file path="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" changelist="ec3c7203-81fb-471f-a405-b1feb832ea17" time="1372612678348" ignored="false" />
     <file path="/Utilisateur.php" changelist="ec3c7203-81fb-471f-a405-b1feb832ea17" time="1372614871760" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -268,7 +268,11 @@
       <created>1372625931045</created>
       <updated>1372625931045</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ps">
+      <created>1372626020960</created>
+      <updated>1372626020960</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
