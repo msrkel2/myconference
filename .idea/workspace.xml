@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec3c7203-81fb-471f-a405-b1feb832ea17" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.infos" afterPath="$PROJECT_DIR$/.infos" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myconference.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/.gitignore" changelist="ec3c7203-81fb-471f-a405-b1feb832ea17" time="1372613289652" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec3c7203-81fb-471f-a405-b1feb832ea17" time="1372626018130" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec3c7203-81fb-471f-a405-b1feb832ea17" time="1372627584337" ignored="false" />
     <file path="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" changelist="ec3c7203-81fb-471f-a405-b1feb832ea17" time="1372612678348" ignored="false" />
     <file path="/Utilisateur.php" changelist="ec3c7203-81fb-471f-a405-b1feb832ea17" time="1372614871760" ignored="false" />
+    <file path="$PROJECT_DIR$/../Symfony/src/conference/GestionBundle/Resources/views/Conference/new.html.twig" changelist="ec3c7203-81fb-471f-a405-b1feb832ea17" time="1372638549527" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,7 @@
       <file leaf-file-name=".infos" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.infos">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="22" selection-start="183" selection-end="183" vertical-scroll-proportion="0.49866667">
+            <state line="11" column="30" selection-start="191" selection-end="191" vertical-scroll-proportion="0.49866667">
               <folding />
             </state>
           </provider>
@@ -224,8 +226,8 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Symfony" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
@@ -272,7 +274,27 @@
       <created>1372626020960</created>
       <updated>1372626020960</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ps">
+      <created>1372626097543</created>
+      <updated>1372626097543</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ps">
+      <created>1372626661157</created>
+      <updated>1372626661157</updated>
+    </task>
+    <task id="LOCAL-00006" summary="xw">
+      <created>1372626921895</created>
+      <updated>1372626921895</updated>
+    </task>
+    <task id="LOCAL-00007" summary="xw">
+      <created>1372626929832</created>
+      <updated>1372626929832</updated>
+    </task>
+    <task id="LOCAL-00008" summary="xw">
+      <created>1372627587413</created>
+      <updated>1372627587413</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -342,7 +364,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="ps" />
+    <option name="LAST_COMMIT_MESSAGE" value="xw" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -357,6 +379,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="ps" />
+    <MESSAGE value="xw" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -454,7 +477,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.infos">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="22" selection-start="183" selection-end="183" vertical-scroll-proportion="0.49866667">
+        <state line="11" column="30" selection-start="191" selection-end="191" vertical-scroll-proportion="0.49866667">
           <folding />
         </state>
       </provider>
